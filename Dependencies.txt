@@ -4,6 +4,8 @@
 # Web scraping essentials
 requests>=2.28.0
 beautifulsoup4>=4.11.0
+selenium>=4.0.0         # For browser automation
+webdriver-manager>=3.0.0 # For managing browser drivers
 
 # Optional but useful for web scraping
 lxml>=4.9.0             # Faster HTML parser
